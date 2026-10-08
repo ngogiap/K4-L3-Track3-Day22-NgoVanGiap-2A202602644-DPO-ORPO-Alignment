@@ -1,0 +1,202 @@
+===== Cặp 1 =====
+
+Câu hỏi:
+Tạo 10 yêu cầu thay đổi.
+--- ví dụ ---
+Trước: Một cô gái cưỡi ngựa
+Yêu cầu: Biến cô ấy thành cưỡi kỳ lân
+Sau: Một cô gái cưỡi kỳ lân
+--- kết thúc ví dụ ---
+
+Chosen:
+**10 Yêu cầu Thay đổi:**
+1. **Trước:** Một thị trấn xưa với xe ngựa
+**Yêu cầu:** Biến phương tiện giao thông thành xe bay
+**Sau:** Một thị trấn cổ với xe bay lơ lửng
+2. **Trước:** Bữa trà chiều truyền thống trong một ngôi nhà nông thôn
+**Yêu cầu:** Thêm các yếu tố tương lai (robot phục vụ, đồ nội thất tự thích nghi)
+**Sau:** Bữa trà "cyber-chic" với công nghệ tiên tiến
+3. **Trước:** Một nhà thám hiểm trong rừng
+**Yêu cầu:** Trao cho anh ta khả năng giao tiếp với thực vật
+**Sau:** Nhà thám hiểm sinh thái giao tiếp với rừng rậm
+4. **Trước:** Cảnh bãi biển mùa hè cổ điển
+**Yêu cầu:** Thêm các cấu trúc bãi biển dưới nước đa dạng sinh học
+**Sau:** Bãi biển đầy năng lượng tự duy trì với rạn san hô tinh tế
+5. **Trước:** Thư viện sách truyền thống
+**Yêu cầu:** Chuyển đổi nó thành thư viện thực tế ảo tương tác
+**Sau:** Thư viện sống động với các lớp thực tế ảo, tài nguyên kỹ thuật số
+6. **Trước:** Đầu bếp chuẩn bị một món ăn cổ điển
+**Yêu cầu:** Kết hợp thành phần siêu thực (như hoa cay) một cách tinh tế
+**Sau:** Thực nghiệm ẩm thực với các thành phần thử nghiệm nâng cao hương vị cổ điển
+7. **Trước:** Thành phố thời trung cổ với những con đường sỏi
+**Yêu cầu:** Thắp sáng các tòa nhà bằng ánh sáng ma thuật huyền bí
+**Sau:** Thành phố ma thuật, nơi kiến trúc và ánh sáng hội tụ
+8. **Trước:** Phòng thí nghiệm khoa học với thiết bị cổ điển
+**Yêu cầu:** Cập nhật bằng các vật liệu nano thông minh và giao diện cảm ứng
+**Sau:** Phòng thí nghiệm tiên tiến nơi đổi mới hội tụ với công nghệ hữu cơ
+9. **Trước:** Một đồng cỏ rộng với bầy cừu
+**Yêu cầu:** Thêm những sinh vật đồng cỏ biết nói, thảo luận thông minh
+**Sau:** Thiên nhiên sống động với đàn cừu giao tiếp hòa nhập với môi trường
+10. **Trước:** Quán cà phê cổ xưa với bảng đen phấn
+**Yêu cầu:** Tích hợp thực tế tăng cường, biến lời nhắn của khách hàng thành đồ họa tức thời
+**Sau:** Quán cà phê sáng tạo với giao diện AR động, nâng cao trải nghiệm của khách hàng
+
+Những yêu cầu biến đổi này pha trộn cái cũ với cái mới, mở ra những phiên bản đổi mới và quyến rũ
+của các bối cảnh quen thuộc.
+
+Rejected:
+**Yêu cầu 10 thay đổi sáng tạo:**
+1. **Trước:** Một thư viện cổ xưa.
+**Thay đổi:** Thêm cửa nhập cảnh ẩn dẫn đến một thư viện ma thuật.
+**Sau:** Một thư viện cổ đầy cánh cổng ma thuật.
+2. **Trước:** Thành phố công nghệ tương lai.
+**Thay đổi:** Tích hợp các công viên xanh treo đô thị.
+**Sau:** Thành phố công nghệ xanh với không gian tự nhiên lơ lửng.
+3. **Trước:** Nhà bếp truyền thống.
+**Thay đổi:** Kết hợp các yếu tố bếp đa chức năng, bền vững.
+**Sau:** Một nhà bếp tối giản, thân thiện với môi trường đầy đổi mới.
+4. **Trước:** Rừng nhiệt đới rậm rạp.
+**Yêu cầu thay đổi:** Khám phá những con đường ánh sáng tự nhiên xuyên qua cây.
+**Sau:** Rừng nhiệt đới lấp lánh với ánh sáng xanh thực vật.
+5. **Trước:** Một nhà biểu diễn lịch sử.
+**Thay đổi:** Kết hợp các màn trình diễn ảo tăng cường.
+**Sau:** Nhà hát tương tác với lớp phủ kỹ thuật số hấp dẫn.
+6. **Trước:** Thị trấn nhỏ ven biển.
+**Thay đổi:** Tạo ra những bến cảng nổi, thân thiện với khí hậu.
+**Sau:** Thuộc địa bờ biển bền vững với cơ sở hạ tầng nổi.
+7. **Trước:** Phòng thí nghiệm khoa học.
+**Yêu cầu thay đổi:** Nhúng các yếu tố AR thực tế tăng tốc học tập.
+**Sau:** Phòng thí nghiệm trải nghiệm, tương tác đa giác quan.
+
+**Trước:** Khu vườn thảo mộc ngoài trời.
+**Thay đổi:** Tích hợp tính năng vi khí hậu trong nhà kính di động.
+**Sau:** Khu vườn thảo mộc thích ứng với khí hậu linh hoạt.
+
+**Trước:** Bảo tàng khảo cổ.
+**Yêu cầu thay đổi:** Giới thiệu bảo tàng tăng cường, kể chuyện 3D.
+**Sau:** Một bảo tàng khảo cổ sống động với chuyến du lịch thời gian ảo.
+10. **Trước:** Bãi đất hoang ở thành phố.
+**Thay đổi:** Chuyển đổi nó thành một "rừng đô thị" xanh thẳng đứng.
+**Sau:** Một ốc đảo đô thị rực rỡ với các vách xanh và sinh cảnh đa dạng.
+
+Những yêu cầu thay đổi này biến đổi các khung cảnh quen thuộc thành những trải nghiệm sáng tạo,
+tương lai và đắm chìm, nhấn mạnh tính bền vững, đổi mới và giao diện liên ngành.
+
+
+===== Cặp 2 =====
+
+Câu hỏi:
+Trong nhiệm vụ này, bạn nhận được một bài đăng mang tính thù địch bằng tiếng Tây Ban Nha từ các
+trang mạng trực tuyến. Bạn được yêu cầu phân loại bài đăng này vào một trong hai loại: hung hăng
+hoặc không hung hăng. Một bài viết được coi là hung hăng khi nó thể hiện cảm xúc và ý kiến theo cách
+bạo hành và cố gắng áp đảo người khác. Lưu ý rằng các URL trong văn bản đã được thay thế bằng
+[Link].
+
+Đầu vào: Xem xét đầu vào: Bài đăng: @AgathaBribli Te lo mereces, por usar uñas de GUARRA
+Phản hồi: Hung hăng
+
+Đầu vào: Xem xét đầu vào: Bài đăng: Eliminar el cáncer del top manta subsahariano en #Barcelona con
+3 medidas de oro: 1) detener a "sindicatos" de delincuentes que encima van por ahí como
+interlocutores, 2) repatriaciones masivas a África, 3) cierre y repatriaciones masivas de chinos
+proveedores.
+Phản hồi: Hung hăng
+
+Đầu vào: Xem xét đầu vào: Bài đăng: @vickkysanchezz Cállate tu puta zorra 😒👅
+
+Chosen:
+Phản ứng: Thô bạo
+
+Rejected:
+Phản ứng: Bạo lực
+
+
+===== Cặp 3 =====
+
+Câu hỏi:
+Nhà / Giáo dục / Sức khỏe Giọng hát và Giáo dục / Đánh giá Giọng nói Miễn phí - Đăng ký Làm Thành
+viên! Một phần của lịch để đặt hẹn. Hướng dẫn cách điền vào biểu mẫu hiện ra trên biểu mẫu. Liên hệ
+[education@barbershop.org](mailto:education@barbershop.org) với bất kỳ câu hỏi nào. Bạn có thể vui
+lòng giúp tôi đặt lịch hẹn để Đánh giá Giọng nói Miễn phí được không? Những bước nào tôi cần làm
+theo?
+
+Chosen:
+**Hướng dẫn Đặt Cuộc đánh giá Giọng nói Miễn phí:**
+
+***Bước 1: Truy cập lịch của bạn**
+
+Đi đến trang web chính thức hoặc truy cập nguồn lịch được cung cấp bởi Sức khỏe Giọng hát và Giáo
+dục (Barbershop).
+
+***Bước 2: Đặt ngày / thời gian**
+1. **Chọn ngày**: Tìm một khoảng trống có sẵn cho "Free Voice Assessment" trong lịch.
+2. **Chọn một khung thời gian**: Nhấp vào ô trống phù hợp với sự thuận tiện của bạn.
+
+***Bước 3: Điền Biểu mẫu Đăng ký**
+
+Sau khi chọn lịch hẹn:
+1. **Mở biểu mẫu** - Bạn sẽ được chuyển hướng đến một biểu mẫu trực tuyến (mẫu pop-up).
+2. **Nhập thông tin cần thiết**:
+- **Tên đầy đủ**
+- **Email**
+- **Số điện thoại**
+- **Thông tin liên quan** (ví dụ: Lịch sử hát, mục tiêu, bất kỳ mối quan tâm nào)
+
+***Bước 4: Xác nhận và Gửi**
+1. **Kiểm tra** các thông tin để đảm bảo tính chính xác.
+2. **Nhấp vào "Gửi"** để hoàn thành việc đăng ký của bạn.
+
+***Thông tin Liên lạc và Theo dõi**
+- **Nhận lời xác nhận**: Bạn sẽ nhận được một email xác nhận có chi tiết cuộc hẹn.
+- **Liên hệ nếu cần thiết**: Lưu giữ địa chỉ email:
+   **[education@barbershop.org](mailto:education@barbershop.org)** cho các câu hỏi, cập nhật, hoặc
+   hỗ trợ bổ sung.
+
+**Thông báo cuối cùng:** Bạn đã thành công đặt một Free Voice Assessment! Hãy tuân thủ lời nhắc nhở,
+chuẩn bị sẵn sàng, và tận hưởng trải nghiệm giáo dục và nâng cao giọng hát của bạn.
+
+**Hãy hát vui vẻ!** Nếu bạn gặp bất kỳ vấn đề nào, đừng ngần ngại liên lạc với nhóm hỗ trợ. Chúc các
+buổi đánh giá thành công!
+
+Rejected:
+**Hướng dẫn Đặt hẹn cho Đánh giá Giọng hát Miễn phí:**
+
+**Bước 1: Truy cập Lịch hẹn**
+1. Đi đến [Barbershop Harmony Society
+   (BHS)]([https://www.barbershop.org/education/vocal-assessments](https://www.barbershop.org/education/vocal-assessments))
+   trang sức khỏe giọng hát / Đánh giá giọng hát miễn phí.
+2. Tìm lịch trực tuyến đặc biệt dành cho Đánh giá Giọng hát được ủy quyền (AVAR).
+
+**Bước 2: Chọn một ngày và Giờ**
+3. Cuộn qua lịch và chọn một ngày/trung tâm AVAR thuận tiện.
+4. Lựa chọn **trống** thời gian từ các khả dụng được hiển thị (với giáo dục viên xác định).
+
+**Bước 3: Điền Mẫu Đăng ký**
+1. **Nhấp vào** thời gian bạn chọn, và một biểu mẫu sẽ xuất hiện.
+2. **Hãy cung cấp thông tin sau:**
+
+- Họ tên đầy đủ
+
+- Địa chỉ email
+
+- Số điện thoại
+
+- Nền âm nhạc và kinh nghiệm liên quan
+3. Đảm bảo thông tin của bạn là chính xác và cập nhật.
+
+**Bước 4: Xác nhận và Hoàn thành**
+4. Kiểm tra lại chi tiết hẹn của bạn.
+5. **Gửi biểu mẫu**: Nhấn "Submit" hoặc "Schedule Appointment" để đặt hẹn của bạn.
+
+**Xác nhận và Chuẩn bị**
+1. **Kiểm tra email của bạn**: Bạn sẽ nhận được xác nhận từ BHS kèm theo hướng dẫn cụ thể và liên hệ
+   với giáo dục viên.
+2. **Theo ngày**: Chuẩn bị cho buổi đánh giá giọng hát miễn phí, mang theo bất kỳ tài liệu cần thiết
+   nào (văn bản, ghi chú âm thanh).
+
+**Hỗ trợ thêm?**
+
+* Nếu bạn gặp bất kỳ sự nhầm lẫn hoặc cần hỗ trợ, liên hệ với
+   **[education@barbershop.org](mailto:education@barbershop.org)** với câu hỏi của bạn.
+
+**Chúc mừng!** Bạn đã thành công đặt hẹn Đánh giá Giọng nói Miễn phí. Phát triển kỹ năng hát của bạn
+và tối đa hóa trải nghiệm với sự hướng dẫn của một AVA
